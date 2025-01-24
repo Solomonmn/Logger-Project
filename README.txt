@@ -1,7 +1,5 @@
 ### README
 
-**Project Title:** CS4348 Project 1 - Logger, Encryption, and Driver System
-
 **Author:** Solomon Gheevarghese
 
 **Date:** [October 11th, 2024]
